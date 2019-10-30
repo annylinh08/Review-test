@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\linhd\\OneDrive - Georgian College\\semester 3\\asp\\review\\Test\\Test\\Test.csproj": {}
+    "C:\\Users\\linhd\\OneDrive - Georgian College\\semester 3\\asp\\review\\Review-test\\Test\\Test\\Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\linhd\\OneDrive - Georgian College\\semester 3\\asp\\review\\Test\\Test\\Test.csproj": {
+    "C:\\Users\\linhd\\OneDrive - Georgian College\\semester 3\\asp\\review\\Review-test\\Test\\Test\\Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\linhd\\OneDrive - Georgian College\\semester 3\\asp\\review\\Test\\Test\\Test.csproj",
+        "projectUniqueName": "C:\\Users\\linhd\\OneDrive - Georgian College\\semester 3\\asp\\review\\Review-test\\Test\\Test\\Test.csproj",
         "projectName": "Test",
-        "projectPath": "C:\\Users\\linhd\\OneDrive - Georgian College\\semester 3\\asp\\review\\Test\\Test\\Test.csproj",
+        "projectPath": "C:\\Users\\linhd\\OneDrive - Georgian College\\semester 3\\asp\\review\\Review-test\\Test\\Test\\Test.csproj",
         "packagesPath": "C:\\Users\\linhd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\linhd\\OneDrive - Georgian College\\semester 3\\asp\\review\\Test\\Test\\obj\\",
+        "outputPath": "C:\\Users\\linhd\\OneDrive - Georgian College\\semester 3\\asp\\review\\Review-test\\Test\\Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
